@@ -1,0 +1,1752 @@
+{
+    "The Shawshank Redemption": {
+        "stars": "9.2",
+        "director": "FrankDarabont",
+        "rating": "2,158,696",
+        "releaseDate": "(1994)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "The Godfather": {
+        "stars": "9.1",
+        "director": "FrancisFord",
+        "rating": "1,481,460",
+        "releaseDate": "(1972)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "The Godfather: Part II": {
+        "stars": "9.0",
+        "director": "FrancisFord",
+        "rating": "1,031,494",
+        "releaseDate": "(1974)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "The Dark Knight": {
+        "stars": "9.0",
+        "director": "ChristopherNolan",
+        "rating": "2,133,388",
+        "releaseDate": "(2008)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "12 Angry Men": {
+        "stars": "8.9",
+        "director": "SidneyLumet",
+        "rating": "617,142",
+        "releaseDate": "(1957)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Schindler's List": {
+        "stars": "8.9",
+        "director": "StevenSpielberg",
+        "rating": "1,119,668",
+        "releaseDate": "(1993)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "The Lord of the Rings: The Return of the King": {
+        "stars": "8.9",
+        "director": "PeterJackson",
+        "rating": "1,532,923",
+        "releaseDate": "(2003)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Pulp Fiction": {
+        "stars": "8.9",
+        "director": "QuentinTarantino",
+        "rating": "1,694,258",
+        "releaseDate": "(1994)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Il buono, il brutto, il cattivo": {
+        "stars": "8.8",
+        "director": "SergioLeone",
+        "rating": "640,558",
+        "releaseDate": "(1966)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Fight Club": {
+        "stars": "8.8",
+        "director": "DavidFincher",
+        "rating": "1,724,609",
+        "releaseDate": "(1999)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "The Lord of the Rings: The Fellowship of the Ring": {
+        "stars": "8.8",
+        "director": "PeterJackson",
+        "rating": "1,548,200",
+        "releaseDate": "(2001)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Forrest Gump": {
+        "stars": "8.8",
+        "director": "RobertZemeckis",
+        "rating": "1,661,713",
+        "releaseDate": "(1994)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Inception": {
+        "stars": "8.7",
+        "director": "ChristopherNolan",
+        "rating": "1,891,994",
+        "releaseDate": "(2010)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Star Wars: Episode V - The Empire Strikes Back": {
+        "stars": "8.7",
+        "director": "IrvinKershner",
+        "rating": "1,078,233",
+        "releaseDate": "(1980)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "The Lord of the Rings: The Two Towers": {
+        "stars": "8.7",
+        "director": "PeterJackson",
+        "rating": "1,386,551",
+        "releaseDate": "(2002)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNGE5MzIyNTAtNWFlMC00NDA2LWJiMjItMjc4Yjg1OWM5NzhhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Joker": {
+        "stars": "8.7",
+        "director": "ToddPhillips",
+        "rating": "455,689",
+        "releaseDate": "(2019)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "The Matrix": {
+        "stars": "8.6",
+        "director": "LanaWachowski",
+        "rating": "1,553,501",
+        "releaseDate": "(1999)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "One Flew Over the Cuckoo's Nest": {
+        "stars": "8.6",
+        "director": "MilosForman",
+        "rating": "852,354",
+        "releaseDate": "(1975)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Goodfellas": {
+        "stars": "8.6",
+        "director": "MartinScorsese",
+        "rating": "933,075",
+        "releaseDate": "(1990)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Shichinin no samurai": {
+        "stars": "8.6",
+        "director": "AkiraKurosawa",
+        "rating": "292,024",
+        "releaseDate": "(1954)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BODdlYjU1Y2MtMWUxMy00YjJjLTgyMWItNzgzZmZkNTYxNWFkXkEyXkFqcGdeQXVyMTAwMjU1MzA2._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Se7en": {
+        "stars": "8.6",
+        "director": "DavidFincher",
+        "rating": "1,326,704",
+        "releaseDate": "(1995)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Cidade de Deus": {
+        "stars": "8.6",
+        "director": "FernandoMeirelles",
+        "rating": "658,963",
+        "releaseDate": "(2002)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMGU5OWEwZDItNmNkMC00NzZmLTk1YTctNzVhZTJjM2NlZTVmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "La vita è bella": {
+        "stars": "8.6",
+        "director": "RobertoBenigni",
+        "rating": "570,384",
+        "releaseDate": "(1997)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "The Silence of the Lambs": {
+        "stars": "8.6",
+        "director": "JonathanDemme",
+        "rating": "1,169,218",
+        "releaseDate": "(1991)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "It's a Wonderful Life": {
+        "stars": "8.6",
+        "director": "FrankCapra",
+        "rating": "366,501",
+        "releaseDate": "(1946)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Star Wars": {
+        "stars": "8.6",
+        "director": "GeorgeLucas",
+        "rating": "1,146,722",
+        "releaseDate": "(1977)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Saving Private Ryan": {
+        "stars": "8.5",
+        "director": "StevenSpielberg",
+        "rating": "1,143,193",
+        "releaseDate": "(1998)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Sen to Chihiro no kamikakushi": {
+        "stars": "8.5",
+        "director": "HayaoMiyazaki",
+        "rating": "576,661",
+        "releaseDate": "(2001)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNjFlNTliMWQtZGJlOC00YTIxLWEzODEtZjM4NzgzZDhkMmFjL2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "The Green Mile": {
+        "stars": "8.5",
+        "director": "FrankDarabont",
+        "rating": "1,049,520",
+        "releaseDate": "(1999)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Léon": {
+        "stars": "8.5",
+        "director": "LucBesson",
+        "rating": "954,740",
+        "releaseDate": "(1994)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZDAwYTlhMDEtNTg0OS00NDY2LWJjOWItNWY3YTZkM2UxYzUzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "Interstellar": {
+        "stars": "8.5",
+        "director": "ChristopherNolan",
+        "rating": "1,347,311",
+        "releaseDate": "(2014)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "The Usual Suspects": {
+        "stars": "8.5",
+        "director": "BryanSinger",
+        "rating": "928,100",
+        "releaseDate": "(1995)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Seppuku": {
+        "stars": "8.5",
+        "director": "MasakiKobayashi",
+        "rating": "27,759",
+        "releaseDate": "(1962)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTg2MzMwNjk5Ml5BMl5BanBnXkFtZTgwNTQwOTkxMTE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "The Lion King": {
+        "stars": "8.5",
+        "director": "RogerAllers",
+        "rating": "871,258",
+        "releaseDate": "(1994)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "American History X": {
+        "stars": "8.5",
+        "director": "TonyKaye",
+        "rating": "973,345",
+        "releaseDate": "(1998)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZjA0MTM4MTQtNzY5MC00NzY3LWI1ZTgtYzcxMjkyMzU4MDZiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Back to the Future": {
+        "stars": "8.5",
+        "director": "RobertZemeckis",
+        "rating": "964,990",
+        "releaseDate": "(1985)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "The Pianist": {
+        "stars": "8.5",
+        "director": "RomanPolanski",
+        "rating": "664,773",
+        "releaseDate": "(2002)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR2,0,45,67_AL_.jpg"
+    },
+    "Terminator 2: Judgment Day": {
+        "stars": "8.5",
+        "director": "JamesCameron",
+        "rating": "934,008",
+        "releaseDate": "(1991)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Modern Times": {
+        "stars": "8.5",
+        "director": "CharlesChaplin",
+        "rating": "197,780",
+        "releaseDate": "(1936)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Psycho": {
+        "stars": "8.5",
+        "director": "AlfredHitchcock",
+        "rating": "554,959",
+        "releaseDate": "(1960)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "The Intouchables": {
+        "stars": "8.5",
+        "director": "OlivierNakache",
+        "rating": "697,947",
+        "releaseDate": "(2011)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Gladiator": {
+        "stars": "8.5",
+        "director": "RidleyScott",
+        "rating": "1,246,203",
+        "releaseDate": "(2000)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "City Lights": {
+        "stars": "8.5",
+        "director": "CharlesChaplin",
+        "rating": "152,587",
+        "releaseDate": "(1931)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "The Departed": {
+        "stars": "8.5",
+        "director": "MartinScorsese",
+        "rating": "1,103,486",
+        "releaseDate": "(2006)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Gisaengchung": {
+        "stars": "8.5",
+        "director": "BongJoon",
+        "rating": "70,549",
+        "releaseDate": "(2019)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BOWVmODY4MjYtZGViYS00MzJjLWI3NmItMGFmMDRkMzI1OTU3XkEyXkFqcGdeQXVyNTQ0NTUxOTA@._V1_UY67_CR2,0,45,67_AL_.jpg"
+    },
+    "Whiplash": {
+        "stars": "8.5",
+        "director": "DamienChazelle",
+        "rating": "641,344",
+        "releaseDate": "(2014)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Once Upon a Time in the West": {
+        "stars": "8.5",
+        "director": "SergioLeone",
+        "rating": "279,056",
+        "releaseDate": "(1968)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZGI5MjBmYzYtMzJhZi00NGI1LTk3MzItYjBjMzcxM2U3MDdiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "The Prestige": {
+        "stars": "8.5",
+        "director": "ChristopherNolan",
+        "rating": "1,094,688",
+        "releaseDate": "(2006)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Casablanca": {
+        "stars": "8.4",
+        "director": "MichaelCurtiz",
+        "rating": "487,522",
+        "releaseDate": "(1942)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Hotaru no haka": {
+        "stars": "8.4",
+        "director": "IsaoTakahata",
+        "rating": "205,779",
+        "releaseDate": "(1988)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Rear Window": {
+        "stars": "8.4",
+        "director": "AlfredHitchcock",
+        "rating": "410,213",
+        "releaseDate": "(1954)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Nuovo Cinema Paradiso": {
+        "stars": "8.4",
+        "director": "GiuseppeTornatore",
+        "rating": "208,382",
+        "releaseDate": "(1988)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Alien": {
+        "stars": "8.4",
+        "director": "RidleyScott",
+        "rating": "733,323",
+        "releaseDate": "(1979)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Avengers: Endgame": {
+        "stars": "8.4",
+        "director": "AnthonyRusso",
+        "rating": "600,892",
+        "releaseDate": "(2019)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Raiders of the Lost Ark": {
+        "stars": "8.4",
+        "director": "StevenSpielberg",
+        "rating": "830,486",
+        "releaseDate": "(1981)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Memento": {
+        "stars": "8.4",
+        "director": "ChristopherNolan",
+        "rating": "1,052,464",
+        "releaseDate": "(2000)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Apocalypse Now": {
+        "stars": "8.4",
+        "director": "FrancisFord",
+        "rating": "563,019",
+        "releaseDate": "(1979)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZTNkZmU0ZWQtZjQzMy00YTNmLWFmN2MtZGNkMmU1OThmMGYwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "The Great Dictator": {
+        "stars": "8.4",
+        "director": "CharlesChaplin",
+        "rating": "186,498",
+        "releaseDate": "(1940)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "The Lives of Others": {
+        "stars": "8.4",
+        "director": "FlorianHenckel",
+        "rating": "331,593",
+        "releaseDate": "(2006)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BOThkM2EzYmMtNDE3NS00NjlhLTg4YzktYTdhNzgyOWY3ZDYzXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "Django Unchained": {
+        "stars": "8.4",
+        "director": "QuentinTarantino",
+        "rating": "1,248,744",
+        "releaseDate": "(2012)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Avengers: Infinity War": {
+        "stars": "8.4",
+        "director": "AnthonyRusso",
+        "rating": "724,378",
+        "releaseDate": "(2018)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "The Shining": {
+        "stars": "8.4",
+        "director": "StanleyKubrick",
+        "rating": "814,061",
+        "releaseDate": "(1980)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Paths of Glory": {
+        "stars": "8.4",
+        "director": "StanleyKubrick",
+        "rating": "161,721",
+        "releaseDate": "(1957)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNjViMmRkOTEtM2ViOS00ODg0LWJhYWEtNTBlOGQxNDczOGY3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "Spider-Man: Into the Spider-Verse": {
+        "stars": "8.4",
+        "director": "BobPersichetti",
+        "rating": "274,908",
+        "releaseDate": "(2018)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "WALL·E": {
+        "stars": "8.4",
+        "director": "AndrewStanton",
+        "rating": "930,896",
+        "releaseDate": "(2008)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Mononoke-hime": {
+        "stars": "8.4",
+        "director": "HayaoMiyazaki",
+        "rating": "303,852",
+        "releaseDate": "(1997)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTVlNWM4NTAtNDQxYi00YWU5LWIwM2MtZmVjYWFmODZiODE5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "Sunset Blvd.": {
+        "stars": "8.4",
+        "director": "BillyWilder",
+        "rating": "184,648",
+        "releaseDate": "(1950)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb": {
+        "stars": "8.4",
+        "director": "StanleyKubrick",
+        "rating": "423,763",
+        "releaseDate": "(1964)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Oldeuboi": {
+        "stars": "8.4",
+        "director": "Chan-wookPark",
+        "rating": "472,190",
+        "releaseDate": "(2003)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Witness for the Prosecution": {
+        "stars": "8.3",
+        "director": "BillyWilder",
+        "rating": "96,248",
+        "releaseDate": "(1957)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZjEwMmE5MzYtYWExYy00ZjEzLTk4MjUtMmJmNzgxY2MxN2U1XkEyXkFqcGdeQXVyMTg2NTc4MzA@._V1_UY67_CR3,0,45,67_AL_.jpg"
+    },
+    "The Dark Knight Rises": {
+        "stars": "8.3",
+        "director": "ChristopherNolan",
+        "rating": "1,420,856",
+        "releaseDate": "(2012)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Once Upon a Time in America": {
+        "stars": "8.3",
+        "director": "SergioLeone",
+        "rating": "285,738",
+        "releaseDate": "(1984)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Aliens": {
+        "stars": "8.3",
+        "director": "JamesCameron",
+        "rating": "614,095",
+        "releaseDate": "(1986)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "American Beauty": {
+        "stars": "8.3",
+        "director": "SamMendes",
+        "rating": "1,009,026",
+        "releaseDate": "(1999)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Kimi no na wa.": {
+        "stars": "8.3",
+        "director": "MakotoShinkai",
+        "rating": "148,139",
+        "releaseDate": "(2016)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Coco": {
+        "stars": "8.3",
+        "director": "LeeUnkrich",
+        "rating": "305,188",
+        "releaseDate": "(2017)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "Braveheart": {
+        "stars": "8.3",
+        "director": "MelGibson",
+        "rating": "908,677",
+        "releaseDate": "(1995)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Das Boot": {
+        "stars": "8.3",
+        "director": "WolfgangPetersen",
+        "rating": "215,830",
+        "releaseDate": "(1981)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNGRmOWY0MGUtNTVhMy00NzRlLTljNDAtNTBiNTRlODgxNmY2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "3 Idiots": {
+        "stars": "8.3",
+        "director": "RajkumarHirani",
+        "rating": "310,674",
+        "releaseDate": "(2009)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "Star Wars: Episode VI - Return of the Jedi": {
+        "stars": "8.3",
+        "director": "RichardMarquand",
+        "rating": "882,338",
+        "releaseDate": "(1983)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Taare Zameen Par": {
+        "stars": "8.3",
+        "director": "AamirKhan",
+        "rating": "148,598",
+        "releaseDate": "(2007)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNTVmYTk2NjAtYzY3MS00YjFjLTlkYzktYzg3YzMyZDQyOWRiXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Toy Story": {
+        "stars": "8.3",
+        "director": "JohnLasseter",
+        "rating": "822,469",
+        "releaseDate": "(1995)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Reservoir Dogs": {
+        "stars": "8.3",
+        "director": "QuentinTarantino",
+        "rating": "853,094",
+        "releaseDate": "(1992)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Amadeus": {
+        "stars": "8.3",
+        "director": "MilosForman",
+        "rating": "345,081",
+        "releaseDate": "(1984)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Inglourious Basterds": {
+        "stars": "8.3",
+        "director": "QuentinTarantino",
+        "rating": "1,161,585",
+        "releaseDate": "(2009)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Good Will Hunting": {
+        "stars": "8.3",
+        "director": "GusVan",
+        "rating": "789,631",
+        "releaseDate": "(1997)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Dangal": {
+        "stars": "8.3",
+        "director": "NiteshTiwari",
+        "rating": "131,491",
+        "releaseDate": "(2016)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "M - Eine Stadt sucht einen Mörder": {
+        "stars": "8.3",
+        "director": "FritzLang",
+        "rating": "131,944",
+        "releaseDate": "(1931)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Requiem for a Dream": {
+        "stars": "8.3",
+        "director": "DarrenAronofsky",
+        "rating": "716,395",
+        "releaseDate": "(2000)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "2001: A Space Odyssey": {
+        "stars": "8.3",
+        "director": "StanleyKubrick",
+        "rating": "557,917",
+        "releaseDate": "(1968)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Vertigo": {
+        "stars": "8.3",
+        "director": "AlfredHitchcock",
+        "rating": "330,603",
+        "releaseDate": "(1958)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Eternal Sunshine of the Spotless Mind": {
+        "stars": "8.3",
+        "director": "MichelGondry",
+        "rating": "844,075",
+        "releaseDate": "(2004)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Citizen Kane": {
+        "stars": "8.3",
+        "director": "OrsonWelles",
+        "rating": "371,745",
+        "releaseDate": "(1941)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Jagten": {
+        "stars": "8.3",
+        "director": "ThomasVinterberg",
+        "rating": "250,701",
+        "releaseDate": "(2012)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "Full Metal Jacket": {
+        "stars": "8.3",
+        "director": "StanleyKubrick",
+        "rating": "626,506",
+        "releaseDate": "(1987)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "North by Northwest": {
+        "stars": "8.3",
+        "director": "AlfredHitchcock",
+        "rating": "278,560",
+        "releaseDate": "(1959)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "A Clockwork Orange": {
+        "stars": "8.3",
+        "director": "StanleyKubrick",
+        "rating": "707,272",
+        "releaseDate": "(1971)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Snatch": {
+        "stars": "8.3",
+        "director": "GuyRitchie",
+        "rating": "734,194",
+        "releaseDate": "(2000)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "The Kid": {
+        "stars": "8.2",
+        "director": "CharlesChaplin",
+        "rating": "101,498",
+        "releaseDate": "(1921)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Amélie": {
+        "stars": "8.2",
+        "director": "Jean-PierreJeunet",
+        "rating": "665,227",
+        "releaseDate": "(2001)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Ladri di biciclette": {
+        "stars": "8.2",
+        "director": "VittorioDe",
+        "rating": "132,097",
+        "releaseDate": "(1948)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Scarface": {
+        "stars": "8.2",
+        "director": "BrianDe",
+        "rating": "682,172",
+        "releaseDate": "(1983)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Singin' in the Rain": {
+        "stars": "8.2",
+        "director": "StanleyDonen",
+        "rating": "202,560",
+        "releaseDate": "(1952)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMWUyNjQ5MTAtNDJhYS00MWQ0LTk2ZTAtZmE4MWNlMjMwMzg3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Taxi Driver": {
+        "stars": "8.2",
+        "director": "MartinScorsese",
+        "rating": "660,803",
+        "releaseDate": "(1976)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Lawrence of Arabia": {
+        "stars": "8.2",
+        "director": "DavidLean",
+        "rating": "248,871",
+        "releaseDate": "(1962)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Toy Story 3": {
+        "stars": "8.2",
+        "director": "LeeUnkrich",
+        "rating": "706,955",
+        "releaseDate": "(2010)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "The Sting": {
+        "stars": "8.2",
+        "director": "GeorgeRoy",
+        "rating": "225,591",
+        "releaseDate": "(1973)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Metropolis": {
+        "stars": "8.2",
+        "director": "FritzLang",
+        "rating": "148,280",
+        "releaseDate": "(1927)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Per qualche dollaro in più": {
+        "stars": "8.2",
+        "director": "SergioLeone",
+        "rating": "213,002",
+        "releaseDate": "(1965)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNWM1NmYyM2ItMTFhNy00NDU0LThlYWUtYjQyYTJmOTY0ZmM0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Ikiru": {
+        "stars": "8.2",
+        "director": "AkiraKurosawa",
+        "rating": "60,581",
+        "releaseDate": "(1952)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZmM0NGY3Y2MtMTA1YS00YmQzLTk2YTctYWFhMDkzMDRjZWQzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Jodaeiye Nader az Simin": {
+        "stars": "8.2",
+        "director": "AsgharFarhadi",
+        "rating": "202,991",
+        "releaseDate": "(2011)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTYzMzU4NDUwOF5BMl5BanBnXkFtZTcwMTM5MjA5Ng@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Double Indemnity": {
+        "stars": "8.2",
+        "director": "BillyWilder",
+        "rating": "131,912",
+        "releaseDate": "(1944)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "To Kill a Mockingbird": {
+        "stars": "8.2",
+        "director": "RobertMulligan",
+        "rating": "278,137",
+        "releaseDate": "(1962)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Capharnaüm": {
+        "stars": "8.2",
+        "director": "NadineLabaki",
+        "rating": "31,307",
+        "releaseDate": "(2018)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMmExNzU2ZWMtYzUwYi00YmM2LTkxZTQtNmVhNjY0NTMyMWI2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Indiana Jones and the Last Crusade": {
+        "stars": "8.2",
+        "director": "StevenSpielberg",
+        "rating": "648,579",
+        "releaseDate": "(1989)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "The Apartment": {
+        "stars": "8.2",
+        "director": "BillyWilder",
+        "rating": "148,849",
+        "releaseDate": "(1960)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Up": {
+        "stars": "8.2",
+        "director": "PeteDocter",
+        "rating": "869,136",
+        "releaseDate": "(2009)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "L.A. Confidential": {
+        "stars": "8.2",
+        "director": "CurtisHanson",
+        "rating": "502,802",
+        "releaseDate": "(1997)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Incendies": {
+        "stars": "8.2",
+        "director": "DenisVilleneuve",
+        "rating": "129,215",
+        "releaseDate": "(2010)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Monty Python and the Holy Grail": {
+        "stars": "8.2",
+        "director": "TerryGilliam",
+        "rating": "471,969",
+        "releaseDate": "(1975)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Heat": {
+        "stars": "8.2",
+        "director": "MichaelMann",
+        "rating": "535,644",
+        "releaseDate": "(1995)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNDc0YTQ5NGEtM2NkYS00MWRhLThiNzAtNmY3NWU3YzNkMjIyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Rashômon": {
+        "stars": "8.2",
+        "director": "AkiraKurosawa",
+        "rating": "139,426",
+        "releaseDate": "(1950)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTk1MDU5MjQ5NF5BMl5BanBnXkFtZTgwMDM2OTE4MzE@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "Yôjinbô": {
+        "stars": "8.2",
+        "director": "AkiraKurosawa",
+        "rating": "101,153",
+        "releaseDate": "(1961)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Die Hard": {
+        "stars": "8.2",
+        "director": "JohnMcTiernan",
+        "rating": "734,943",
+        "releaseDate": "(1988)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Batman Begins": {
+        "stars": "8.2",
+        "director": "ChristopherNolan",
+        "rating": "1,224,475",
+        "releaseDate": "(2005)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZmUwNGU2ZmItMmRiNC00MjhlLTg5YWUtODMyNzkxODYzMmZlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY67_CR2,0,45,67_AL_.jpg"
+    },
+    "Unforgiven": {
+        "stars": "8.2",
+        "director": "ClintEastwood",
+        "rating": "349,359",
+        "releaseDate": "(1992)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Green Book": {
+        "stars": "8.2",
+        "director": "PeterFarrelly",
+        "rating": "259,244",
+        "releaseDate": "(2018)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Der Untergang": {
+        "stars": "8.2",
+        "director": "OliverHirschbiegel",
+        "rating": "311,986",
+        "releaseDate": "(2004)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZDFmNzI3YmItMTMyMy00YjE1LTliYTgtN2Q4M2QzZDE5MTlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Bacheha-Ye aseman": {
+        "stars": "8.2",
+        "director": "MajidMajidi",
+        "rating": "56,351",
+        "releaseDate": "(1997)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Some Like It Hot": {
+        "stars": "8.2",
+        "director": "BillyWilder",
+        "rating": "226,427",
+        "releaseDate": "(1959)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Hauru no ugoku shiro": {
+        "stars": "8.2",
+        "director": "HayaoMiyazaki",
+        "rating": "291,416",
+        "releaseDate": "(2004)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZTRhY2QwM2UtNWRlNy00ZWQwLTg3MjktZThmNjQ3NTdjN2IxXkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "The Great Escape": {
+        "stars": "8.2",
+        "director": "JohnSturges",
+        "rating": "209,259",
+        "releaseDate": "(1963)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Tonari no Totoro": {
+        "stars": "8.2",
+        "director": "HayaoMiyazaki",
+        "rating": "247,022",
+        "releaseDate": "(1988)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNTdiOTQ0YmUtOGE3YS00NDg5LWI3YTEtNDAxZmE0MzRmZWM5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY67_CR2,0,45,67_AL_.jpg"
+    },
+    "Ran": {
+        "stars": "8.2",
+        "director": "AkiraKurosawa",
+        "rating": "102,177",
+        "releaseDate": "(1985)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZDBjZTM4ZmEtOTA5ZC00NTQzLTkyNzYtMmUxNGU2YjI5YjU5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "A Beautiful Mind": {
+        "stars": "8.2",
+        "director": "RonHoward",
+        "rating": "789,572",
+        "releaseDate": "(2001)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "All About Eve": {
+        "stars": "8.2",
+        "director": "JosephL.",
+        "rating": "112,093",
+        "releaseDate": "(1950)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Pan's Labyrinth": {
+        "stars": "8.2",
+        "director": "Guillermodel",
+        "rating": "583,666",
+        "releaseDate": "(2006)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTU3ODg2NjQ5NF5BMl5BanBnXkFtZTcwMDEwODgzMQ@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Idi i smotri": {
+        "stars": "8.2",
+        "director": "ElemKlimov",
+        "rating": "45,718",
+        "releaseDate": "(1985)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BODM4Njg0NTAtYjI5Ny00ZjAxLTkwNmItZTMxMWU5M2U3M2RjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Casino": {
+        "stars": "8.2",
+        "director": "MartinScorsese",
+        "rating": "425,189",
+        "releaseDate": "(1995)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "El secreto de sus ojos": {
+        "stars": "8.2",
+        "director": "JuanJosé",
+        "rating": "177,335",
+        "releaseDate": "(2009)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTgwNTI3OTczOV5BMl5BanBnXkFtZTcwMTM3MTUyMw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Raging Bull": {
+        "stars": "8.2",
+        "director": "MartinScorsese",
+        "rating": "296,532",
+        "releaseDate": "(1980)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Lock, Stock and Two Smoking Barrels": {
+        "stars": "8.2",
+        "director": "GuyRitchie",
+        "rating": "502,465",
+        "releaseDate": "(1998)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "The Wolf of Wall Street": {
+        "stars": "8.1",
+        "director": "MartinScorsese",
+        "rating": "1,069,334",
+        "releaseDate": "(2013)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "The Treasure of the Sierra Madre": {
+        "stars": "8.1",
+        "director": "JohnHuston",
+        "rating": "105,990",
+        "releaseDate": "(1948)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Judgment at Nuremberg": {
+        "stars": "8.1",
+        "director": "StanleyKramer",
+        "rating": "63,491",
+        "releaseDate": "(1961)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZDZjMTIwZTQtNTM3OS00OTUyLWI5MTMtOTNjYWVkNzhjMWIxXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Babam ve Oglum": {
+        "stars": "8.1",
+        "director": "ÇaganIrmak",
+        "rating": "70,643",
+        "releaseDate": "(2005)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNjAzMzEwYzctNjc1MC00Nzg5LWFmMGItMTgzYmMyNTY2OTQ4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Three Billboards Outside Ebbing, Missouri": {
+        "stars": "8.1",
+        "director": "MartinMcDonagh",
+        "rating": "367,429",
+        "releaseDate": "(2017)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMjMxNzgwMDUyMl5BMl5BanBnXkFtZTgwMTQ0NTIyNDM@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Chinatown": {
+        "stars": "8.1",
+        "director": "RomanPolanski",
+        "rating": "272,376",
+        "releaseDate": "(1974)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BOGMwYmY5ZmEtMzY1Yi00OWJiLTk1Y2MtMzI2MjBhYmZkNTQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "The Gold Rush": {
+        "stars": "8.1",
+        "director": "CharlesChaplin",
+        "rating": "91,918",
+        "releaseDate": "(1925)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY67_CR2,0,45,67_AL_.jpg"
+    },
+    "Drishyam": {
+        "stars": "8.1",
+        "director": "JeethuJoseph",
+        "rating": "26,847",
+        "releaseDate": "(2013)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYmY3MzYwMGUtOWMxYS00OGVhLWFjNmUtYzlkNGVmY2ZkMjA3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY67_CR3,0,45,67_AL_.jpg"
+    },
+    "Dial M for Murder": {
+        "stars": "8.1",
+        "director": "AlfredHitchcock",
+        "rating": "144,266",
+        "releaseDate": "(1954)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "There Will Be Blood": {
+        "stars": "8.1",
+        "director": "PaulThomas",
+        "rating": "475,138",
+        "releaseDate": "(2007)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "V for Vendetta": {
+        "stars": "8.1",
+        "director": "JamesMcTeigue",
+        "rating": "970,662",
+        "releaseDate": "(2005)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYzllMjJkODAtYjMwMi00YmNhLWFhYzAtZjZjODg5YzEwOGUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Inside Out": {
+        "stars": "8.1",
+        "director": "PeteDocter",
+        "rating": "555,850",
+        "releaseDate": "(2015)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Det sjunde inseglet": {
+        "stars": "8.1",
+        "director": "IngmarBergman",
+        "rating": "147,787",
+        "releaseDate": "(1957)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNWE2NmMwZjgtOWYxYy00NWU0LTkzOGUtYTg4Yjk3MDFmY2IyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Warrior": {
+        "stars": "8.1",
+        "director": "GavinO'Connor",
+        "rating": "410,997",
+        "releaseDate": "(2011)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "No Country for Old Men": {
+        "stars": "8.1",
+        "director": "EthanCoen",
+        "rating": "786,042",
+        "releaseDate": "(2007)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Room": {
+        "stars": "8.1",
+        "director": "LennyAbrahamson",
+        "rating": "329,589",
+        "releaseDate": "(2015)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Trainspotting": {
+        "stars": "8.1",
+        "director": "DannyBoyle",
+        "rating": "601,035",
+        "releaseDate": "(1996)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "The Elephant Man": {
+        "stars": "8.1",
+        "director": "DavidLynch",
+        "rating": "204,586",
+        "releaseDate": "(1980)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "The Sixth Sense": {
+        "stars": "8.1",
+        "director": "M.Night",
+        "rating": "861,404",
+        "releaseDate": "(1999)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Shutter Island": {
+        "stars": "8.1",
+        "director": "MartinScorsese",
+        "rating": "1,035,811",
+        "releaseDate": "(2010)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "The Thing": {
+        "stars": "8.1",
+        "director": "JohnCarpenter",
+        "rating": "341,696",
+        "releaseDate": "(1982)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNDcyZmFjY2YtN2I1OC00MzU3LWIzZGEtZDA5N2VlNDJjYWI3L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Andhadhun": {
+        "stars": "8.1",
+        "director": "SriramRaghavan",
+        "rating": "51,782",
+        "releaseDate": "(2018)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZWZhMjhhZmYtOTIzOC00MGYzLWI1OGYtM2ZkN2IxNTI4ZWI3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Gone with the Wind": {
+        "stars": "8.1",
+        "director": "VictorFleming",
+        "rating": "269,588",
+        "releaseDate": "(1939)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "The Bridge on the River Kwai": {
+        "stars": "8.1",
+        "director": "DavidLean",
+        "rating": "189,982",
+        "releaseDate": "(1957)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMGVhNjhjODktODgxYS00MDdhLTlkZjktYTkyNzQxMTU0ZDYxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Blade Runner": {
+        "stars": "8.1",
+        "director": "RidleyScott",
+        "rating": "644,662",
+        "releaseDate": "(1982)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "The Third Man": {
+        "stars": "8.1",
+        "director": "CarolReed",
+        "rating": "148,586",
+        "releaseDate": "(1949)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "On the Waterfront": {
+        "stars": "8.1",
+        "director": "EliaKazan",
+        "rating": "131,658",
+        "releaseDate": "(1954)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Jurassic Park": {
+        "stars": "8.1",
+        "director": "StevenSpielberg",
+        "rating": "802,440",
+        "releaseDate": "(1993)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Finding Nemo": {
+        "stars": "8.1",
+        "director": "AndrewStanton",
+        "rating": "889,475",
+        "releaseDate": "(2003)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Smultronstället": {
+        "stars": "8.1",
+        "director": "IngmarBergman",
+        "rating": "86,645",
+        "releaseDate": "(1957)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BM2NiYjhmMzctMzliMC00NDBlLWJkYzItZjIwYjYzNDg3OGQzXkEyXkFqcGdeQXVyMzAxNjg3MjQ@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Eskiya": {
+        "stars": "8.1",
+        "director": "YavuzTurgul",
+        "rating": "57,403",
+        "releaseDate": "(1996)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BOGQ4ZjFmYjktOGNkNS00OWYyLWIyZjgtMGJjM2U1ZTA0ZTlhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "Gran Torino": {
+        "stars": "8.1",
+        "director": "ClintEastwood",
+        "rating": "682,272",
+        "releaseDate": "(2008)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Fargo": {
+        "stars": "8.1",
+        "director": "JoelCoen",
+        "rating": "574,150",
+        "releaseDate": "(1996)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Kill Bill: Vol. 1": {
+        "stars": "8.1",
+        "director": "QuentinTarantino",
+        "rating": "931,868",
+        "releaseDate": "(2003)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "The Deer Hunter": {
+        "stars": "8.1",
+        "director": "MichaelCimino",
+        "rating": "290,525",
+        "releaseDate": "(1978)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Stalker": {
+        "stars": "8.1",
+        "director": "AndreiTarkovsky",
+        "rating": "102,054",
+        "releaseDate": "(1979)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMDgwODNmMGItMDcwYi00OWZjLTgyZjAtMGYwMmI4N2Q0NmJmXkEyXkFqcGdeQXVyNzY1MTU0Njk@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "The Truman Show": {
+        "stars": "8.1",
+        "director": "PeterWeir",
+        "rating": "860,990",
+        "releaseDate": "(1998)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "The Big Lebowski": {
+        "stars": "8.1",
+        "director": "JoelCoen",
+        "rating": "678,984",
+        "releaseDate": "(1998)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Tôkyô monogatari": {
+        "stars": "8.1",
+        "director": "YasujirôOzu",
+        "rating": "45,656",
+        "releaseDate": "(1953)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Relatos salvajes": {
+        "stars": "8.1",
+        "director": "DamiánSzifron",
+        "rating": "156,763",
+        "releaseDate": "(2014)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNGQzY2Y0MTgtMDA4OC00NjM3LWI0ZGQtNTJlM2UxZDQxZjI0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "Mary and Max": {
+        "stars": "8.1",
+        "director": "AdamElliot",
+        "rating": "154,199",
+        "releaseDate": "(2009)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "In the Name of the Father": {
+        "stars": "8.1",
+        "director": "JimSheridan",
+        "rating": "144,883",
+        "releaseDate": "(1993)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMmYyOTgwYWItYmU3Ny00M2E2LTk0NWMtMDVlNmQ0MWZiMTMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Gone Girl": {
+        "stars": "8.1",
+        "director": "DavidFincher",
+        "rating": "784,047",
+        "releaseDate": "(2014)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Hacksaw Ridge": {
+        "stars": "8.1",
+        "director": "MelGibson",
+        "rating": "383,677",
+        "releaseDate": "(2016)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "The General": {
+        "stars": "8.1",
+        "director": "ClydeBruckman",
+        "rating": "73,710",
+        "releaseDate": "(1926)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Sherlock Jr.": {
+        "stars": "8.1",
+        "director": "BusterKeaton",
+        "rating": "35,102",
+        "releaseDate": "(1924)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "How to Train Your Dragon": {
+        "stars": "8.1",
+        "director": "DeanDeBlois",
+        "rating": "625,259",
+        "releaseDate": "(2010)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Mr. Smith Goes to Washington": {
+        "stars": "8.1",
+        "director": "FrankCapra",
+        "rating": "100,181",
+        "releaseDate": "(1939)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Salinui chueok": {
+        "stars": "8.1",
+        "director": "BongJoon",
+        "rating": "107,717",
+        "releaseDate": "(2003)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMzhlNGJhYzUtZTNiMi00MjI0LWFjN2MtOTVlN2IxODVkZWVkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "The Grand Budapest Hotel": {
+        "stars": "8.1",
+        "director": "WesAnderson",
+        "rating": "650,173",
+        "releaseDate": "(2014)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Persona": {
+        "stars": "8.1",
+        "director": "IngmarBergman",
+        "rating": "90,312",
+        "releaseDate": "(1966)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYzI1ZjUwYmEtNWNmNS00NjgyLTlhNmUtNjA2YmFhYmIyMzVkXkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "Before Sunrise": {
+        "stars": "8.1",
+        "director": "RichardLinklater",
+        "rating": "245,137",
+        "releaseDate": "(1995)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Catch Me If You Can": {
+        "stars": "8.1",
+        "director": "StevenSpielberg",
+        "rating": "744,905",
+        "releaseDate": "(2002)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Into the Wild": {
+        "stars": "8.1",
+        "director": "SeanPenn",
+        "rating": "534,987",
+        "releaseDate": "(2007)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTAwNDEyODU1MjheQTJeQWpwZ15BbWU2MDc3NDQwNw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Cool Hand Luke": {
+        "stars": "8.1",
+        "director": "StuartRosenberg",
+        "rating": "151,804",
+        "releaseDate": "(1967)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BOWFlNzZhYmYtYTI5YS00MDQyLWIyNTUtNTRjMWUwNTEzNjA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Le salaire de la peur": {
+        "stars": "8.1",
+        "director": "Henri-GeorgesClouzot",
+        "rating": "49,690",
+        "releaseDate": "(1953)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "12 Years a Slave": {
+        "stars": "8.1",
+        "director": "SteveMcQueen",
+        "rating": "591,660",
+        "releaseDate": "(2013)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Prisoners": {
+        "stars": "8.1",
+        "director": "DenisVilleneuve",
+        "rating": "543,260",
+        "releaseDate": "(2013)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Network": {
+        "stars": "8.1",
+        "director": "SidneyLumet",
+        "rating": "134,912",
+        "releaseDate": "(1976)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNmFiOWY3ZTktOTYwNy00ZTUzLTk0ODQtNzIxMzQ0ZDFjMTgyXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Life of Brian": {
+        "stars": "8.1",
+        "director": "TerryJones",
+        "rating": "342,460",
+        "releaseDate": "(1979)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMzAwNjU1OTktYjY3Mi00NDY5LWFlZWUtZjhjNGE0OTkwZDkwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Stand by Me": {
+        "stars": "8.1",
+        "director": "RobReiner",
+        "rating": "341,063",
+        "releaseDate": "(1986)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "The Red Shoes": {
+        "stars": "8.1",
+        "director": "MichaelPowell",
+        "rating": "26,138",
+        "releaseDate": "(1948)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BOWRmNGEwZjUtZjEwNS00OGZmLThhMmEtZTJlMTU5MGQ3ZWUwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Mad Max: Fury Road": {
+        "stars": "8.1",
+        "director": "GeorgeMiller",
+        "rating": "804,559",
+        "releaseDate": "(2015)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "La passion de Jeanne d'Arc": {
+        "stars": "8.1",
+        "director": "CarlTheodor",
+        "rating": "42,185",
+        "releaseDate": "(1928)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Platoon": {
+        "stars": "8.1",
+        "director": "OliverStone",
+        "rating": "358,667",
+        "releaseDate": "(1986)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BM2Y1NTQyNWYtNDViNy00ZWRhLTk3MTMtOTI3ZGQ5MDFiNWM4XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Rang De Basanti": {
+        "stars": "8.1",
+        "director": "RakeyshOmprakash",
+        "rating": "103,129",
+        "releaseDate": "(2006)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYThmZDA0YmQtMWJhNy00MDQwLTk0Y2YtMDhmZTE5ZjhlNjliXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "Million Dollar Baby": {
+        "stars": "8.1",
+        "director": "ClintEastwood",
+        "rating": "597,610",
+        "releaseDate": "(2004)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Rush": {
+        "stars": "8.1",
+        "director": "RonHoward",
+        "rating": "402,241",
+        "releaseDate": "(2013)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Hachi: A Dog's Tale": {
+        "stars": "8.1",
+        "director": "LasseHallström",
+        "rating": "230,414",
+        "releaseDate": "(2009)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "Barry Lyndon": {
+        "stars": "8.1",
+        "director": "StanleyKubrick",
+        "rating": "136,313",
+        "releaseDate": "(1975)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Logan": {
+        "stars": "8.1",
+        "director": "JamesMangold",
+        "rating": "585,619",
+        "releaseDate": "(2017)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Andrei Rublev": {
+        "stars": "8.1",
+        "director": "AndreiTarkovsky",
+        "rating": "40,708",
+        "releaseDate": "(1966)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMjhkN2Q3MzctNzJiOC00OTc5LWIwOWYtNWRiYWUyMDk0MGZiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Ben-Hur": {
+        "stars": "8.1",
+        "director": "WilliamWyler",
+        "rating": "205,520",
+        "releaseDate": "(1959)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Kaze no tani no Naushika": {
+        "stars": "8.0",
+        "director": "HayaoMiyazaki",
+        "rating": "131,819",
+        "releaseDate": "(1984)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZWFkN2ZhODAtYTNkZS00Y2NjLWIzNDYtNzJjNDNlMzAyNTIyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "Hotel Rwanda": {
+        "stars": "8.0",
+        "director": "TerryGeorge",
+        "rating": "318,519",
+        "releaseDate": "(2004)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Les quatre cents coups": {
+        "stars": "8.0",
+        "director": "FrançoisTruffaut",
+        "rating": "94,861",
+        "releaseDate": "(1959)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYTQ4MjA4NmYtYjRhNi00MTEwLTg0NjgtNjk3ODJlZGU4NjRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR2,0,45,67_AL_.jpg"
+    },
+    "Amores perros": {
+        "stars": "8.0",
+        "director": "AlejandroG.",
+        "rating": "210,538",
+        "releaseDate": "(2000)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMWJhOTg5MWQtYTJjMi00YmFkLTg4ODgtYmU2YWVhODQ4ZDM3XkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Harry Potter and the Deathly Hallows: Part 2": {
+        "stars": "8.0",
+        "director": "DavidYates",
+        "rating": "708,091",
+        "releaseDate": "(2011)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMjIyZGU4YzUtNDkzYi00ZDRhLTljYzctYTMxMDQ4M2E0Y2YxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Spotlight": {
+        "stars": "8.0",
+        "director": "TomMcCarthy",
+        "rating": "378,045",
+        "releaseDate": "(2015)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Dead Poets Society": {
+        "stars": "8.0",
+        "director": "PeterWeir",
+        "rating": "383,065",
+        "releaseDate": "(1989)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Ace in the Hole": {
+        "stars": "8.0",
+        "director": "BillyWilder",
+        "rating": "25,958",
+        "releaseDate": "(1951)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNDUzZjlhZTYtN2E5MS00ODQ3LWI1ZjgtNzdiZmI0NTZiZTljXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "White Heat": {
+        "stars": "8.0",
+        "director": "RaoulWalsh",
+        "rating": "25,809",
+        "releaseDate": "(1949)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZmI5NTA3MjItYzdhMi00MWMxLTg3OWMtYWQyYjg5MTFmM2U0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Rebecca": {
+        "stars": "8.0",
+        "director": "AlfredHitchcock",
+        "rating": "113,395",
+        "releaseDate": "(1940)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZmEwYTRhYmMtODA0NS00NmMyLThjMTctMTVmZmNlMzg2YjEyXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "Rocky": {
+        "stars": "8.0",
+        "director": "JohnG.",
+        "rating": "484,197",
+        "releaseDate": "(1976)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Monsters, Inc.": {
+        "stars": "8.0",
+        "director": "PeteDocter",
+        "rating": "759,928",
+        "releaseDate": "(2001)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "It Happened One Night": {
+        "stars": "8.0",
+        "director": "FrankCapra",
+        "rating": "86,707",
+        "releaseDate": "(1934)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZmViYmM5OTYtNGQ4Ny00YjQyLThiNjEtYTE4MGZhZTNmZjcyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "La haine": {
+        "stars": "8.0",
+        "director": "MathieuKassovitz",
+        "rating": "135,171",
+        "releaseDate": "(1995)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNDNiOTA5YjktY2Q0Ni00ODgzLWE5MWItNGExOWRlYjY2MjBlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "Ah-ga-ssi": {
+        "stars": "8.0",
+        "director": "Chan-wookPark",
+        "rating": "86,379",
+        "releaseDate": "(2016)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "Gangs of Wasseypur": {
+        "stars": "8.0",
+        "director": "AnuragKashyap",
+        "rating": "71,709",
+        "releaseDate": "(2012)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTc5NjY4MjUwNF5BMl5BanBnXkFtZTgwODM3NzM5MzE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Lagaan: Once Upon a Time in India": {
+        "stars": "8.0",
+        "director": "AshutoshGowariker",
+        "rating": "95,745",
+        "releaseDate": "(2001)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNDYxNWUzZmYtOGQxMC00MTdkLTkxOTctYzkyOGIwNWQxZjhmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "The Princess Bride": {
+        "stars": "8.0",
+        "director": "RobReiner",
+        "rating": "368,300",
+        "releaseDate": "(1987)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMGM4M2Q5N2MtNThkZS00NTc1LTk1NTItNWEyZjJjNDRmNDk5XkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "PK": {
+        "stars": "8.0",
+        "director": "RajkumarHirani",
+        "rating": "143,756",
+        "releaseDate": "(2014)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Butch Cassidy and the Sundance Kid": {
+        "stars": "8.0",
+        "director": "GeorgeRoy",
+        "rating": "191,206",
+        "releaseDate": "(1969)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTkyMTM2NDk5Nl5BMl5BanBnXkFtZTgwNzY1NzEyMDE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "The Help": {
+        "stars": "8.0",
+        "director": "TateTaylor",
+        "rating": "400,453",
+        "releaseDate": "(2011)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Before Sunset": {
+        "stars": "8.0",
+        "director": "RichardLinklater",
+        "rating": "214,315",
+        "releaseDate": "(2004)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Munna Bhai M.B.B.S.": {
+        "stars": "8.0",
+        "director": "RajkumarHirani",
+        "rating": "67,212",
+        "releaseDate": "(2003)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMzQ4MTBlYTQtMzJkYS00OGNjLTk1MWYtNzQ0OTQ0OWEyOWU1XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "Akira": {
+        "stars": "8.0",
+        "director": "KatsuhiroÔtomo",
+        "rating": "146,484",
+        "releaseDate": "(1988)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BM2ZiZTk1ODgtMTZkNS00NTYxLWIxZTUtNWExZGYwZTRjODViXkEyXkFqcGdeQXVyMTE2MzA3MDM@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "The Terminator": {
+        "stars": "8.0",
+        "director": "JamesCameron",
+        "rating": "751,000",
+        "releaseDate": "(1984)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Faa yeung nin wa": {
+        "stars": "8.0",
+        "director": "Kar-WaiWong",
+        "rating": "109,687",
+        "releaseDate": "(2000)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYjZjODRlMjQtMjJlYy00ZDBjLTkyYTQtZGQxZTk5NzJhYmNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "Paris, Texas": {
+        "stars": "8.0",
+        "director": "WimWenders",
+        "rating": "77,843",
+        "releaseDate": "(1984)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BM2RjMmU3ZWItYzBlMy00ZmJkLWE5YzgtNTVkODdhOWM3NGZhXkEyXkFqcGdeQXVyNDA5Mjg5MjA@._V1_UX45_CR0,0,45,67_AL_.jpg"
+    },
+    "Swades: We, the People": {
+        "stars": "8.0",
+        "director": "AshutoshGowariker",
+        "rating": "76,805",
+        "releaseDate": "(2004)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BYzExOTcwNjYtZTljMC00YTQ2LWI2YjYtNWFlYzQ0YTJhNzJmXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Aladdin": {
+        "stars": "8.0",
+        "director": "RonClements",
+        "rating": "337,607",
+        "releaseDate": "(1992)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BY2Q2NDI1MjUtM2Q5ZS00MTFlLWJiYWEtNTZmNjQ3OGJkZDgxXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Guardians of the Galaxy": {
+        "stars": "8.0",
+        "director": "JamesGunn",
+        "rating": "980,336",
+        "releaseDate": "(2014)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Mou gaan dou": {
+        "stars": "8.0",
+        "director": "AndrewLau",
+        "rating": "113,033",
+        "releaseDate": "(2002)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BM2U0NTcxOTktN2MwZS00N2Q2LWJlYWItMTg0NWIyMDIxNzU5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "La battaglia di Algeri": {
+        "stars": "8.0",
+        "director": "GilloPontecorvo",
+        "rating": "48,344",
+        "releaseDate": "(1966)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BZWEzMGY4OTQtYTdmMy00M2QwLTliYTQtYWUzYzc3OTA5YzIwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "La leggenda del pianista sull'oceano": {
+        "stars": "8.0",
+        "director": "GiuseppeTornatore",
+        "rating": "54,006",
+        "releaseDate": "(1998)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BMzIwOTdmNjQtOWQ1ZS00ZWQ4LWIxYTMtOWFkM2NjODJiMGY4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    },
+    "Tenkû no shiro Rapyuta": {
+        "stars": "8.0",
+        "director": "HayaoMiyazaki",
+        "rating": "131,526",
+        "releaseDate": "(1986)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNTg0NmI1ZGQtZTUxNC00NTgxLThjMDUtZmRlYmEzM2MwOWYwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_UY67_CR1,0,45,67_AL_.jpg"
+    },
+    "Kumonosu-jô": {
+        "stars": "8.0",
+        "director": "AkiraKurosawa",
+        "rating": "41,019",
+        "releaseDate": "(1957)",
+        "iconUrl": "https://m.media-amazon.com/images/M/MV5BNGYxZjA2M2ItYTRmNS00NzRmLWJkYzgtYTdiNGFlZDI5ZjNmXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+    }
+}
